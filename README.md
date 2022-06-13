@@ -1,5 +1,5 @@
 ### Oi, sou a Camila Senna Leite!
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaSennaLeite&theme=moltack&show_icons=true)
+![<3](https://github-readme-stats.vercel.app/api?username=CamilaSennaLeite&theme=moltack&show_icons=true)
 <!--
 **CamilaSennaLeite/CamilaSennaLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
